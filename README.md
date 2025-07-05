@@ -1,18 +1,3 @@
-Berikut merupakan beberapa screenshoot website :
-
-Beranda
-![alt text](https://github.com/risangabdurrahmang/website_pemesanan_tiket_wisata/blob/main/public/img/beranda.png?raw=true)
-
-Grafik
-![alt text](https://github.com/risangabdurrahmang/website_pemesanan_tiket_wisata/blob/main/public/img/grafik.png?raw=true)
-
-Form Pemesanan
-![alt text](https://github.com/risangabdurrahmang/website_pemesanan_tiket_wisata/blob/main/public/img/pesan.png?raw=true)
-
-Daftar Pemesanan
-![alt text](https://github.com/risangabdurrahmang/website_pemesanan_tiket_wisata/blob/main/public/img/daftar.png?raw=true)
-
-
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
